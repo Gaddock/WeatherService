@@ -1,0 +1,472 @@
+﻿Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+Creando el origen de EventLog CheckWeather en el registro Application...
+Deshaciendo ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Restaurando el registro de eventos al estado anterior para el origen CheckWeather.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+El servicio CheckWeather se ha instalado correctamente.
+Creando el origen de EventLog CheckWeather en el registro Application...
+Confirmando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+Creando el origen de EventLog CheckWeather en el registro Application...
+Deshaciendo ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Restaurando el registro de eventos al estado anterior para el origen CheckWeather.
+Desinstalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Quitando el origen de EventLog CheckWeather.
+Se está quitando el servicio CheckWeather del sistema...
+El servicio CheckWeather se ha quitado correctamente del sistema.
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+El servicio CheckWeather se ha instalado correctamente.
+Creando el origen de EventLog CheckWeather en el registro Application...
+Confirmando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Desinstalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Quitando el origen de EventLog CheckWeather.
+Se está quitando el servicio CheckWeather del sistema...
+El servicio CheckWeather se ha quitado correctamente del sistema.
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+El servicio CheckWeather se ha instalado correctamente.
+Creando el origen de EventLog CheckWeather en el registro Application...
+Confirmando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Desinstalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Quitando el origen de EventLog CheckWeather.
+Se está quitando el servicio CheckWeather del sistema...
+El servicio CheckWeather se ha quitado correctamente del sistema.
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+El servicio CheckWeather se ha instalado correctamente.
+Creando el origen de EventLog CheckWeather en el registro Application...
+Confirmando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Desinstalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Quitando el origen de EventLog CheckWeather.
+Se está quitando el servicio CheckWeather del sistema...
+El servicio CheckWeather se ha quitado correctamente del sistema.
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+El servicio CheckWeather se ha instalado correctamente.
+Creando el origen de EventLog CheckWeather en el registro Application...
+Confirmando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Desinstalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Quitando el origen de EventLog CheckWeather.
+Se está quitando el servicio CheckWeather del sistema...
+El servicio CheckWeather se ha quitado correctamente del sistema.
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+El servicio CheckWeather se ha instalado correctamente.
+Creando el origen de EventLog CheckWeather en el registro Application...
+Confirmando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Desinstalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Quitando el origen de EventLog CheckWeather.
+Se está quitando el servicio CheckWeather del sistema...
+El servicio CheckWeather se ha quitado correctamente del sistema.
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+El servicio CheckWeather se ha instalado correctamente.
+Creando el origen de EventLog CheckWeather en el registro Application...
+Confirmando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Desinstalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Quitando el origen de EventLog CheckWeather.
+Se está quitando el servicio CheckWeather del sistema...
+El servicio CheckWeather se ha quitado correctamente del sistema.
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+El servicio CheckWeather se ha instalado correctamente.
+Creando el origen de EventLog CheckWeather en el registro Application...
+Confirmando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Desinstalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Quitando el origen de EventLog CheckWeather.
+Se está quitando el servicio CheckWeather del sistema...
+El servicio CheckWeather se ha quitado correctamente del sistema.
+Intento de detener el servicio CheckWeather.
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+El servicio CheckWeather se ha instalado correctamente.
+Creando el origen de EventLog CheckWeather en el registro Application...
+Confirmando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Desinstalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Quitando el origen de EventLog CheckWeather.
+Se está quitando el servicio CheckWeather del sistema...
+El servicio CheckWeather se ha quitado correctamente del sistema.
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+Creando el origen de EventLog CheckWeather en el registro Application...
+Deshaciendo ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Restaurando el registro de eventos al estado anterior para el origen CheckWeather.
+Desinstalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Quitando el origen de EventLog CheckWeather.
+Advertencia: el origen CheckWeather no está registrado en el equipo local.
+Se está quitando el servicio CheckWeather del sistema...
+El servicio CheckWeather se ha quitado correctamente del sistema.
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+Creando el origen de EventLog CheckWeather en el registro Application...
+Deshaciendo ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Restaurando el registro de eventos al estado anterior para el origen CheckWeather.
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+Creando el origen de EventLog CheckWeather en el registro Application...
+Deshaciendo ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Restaurando el registro de eventos al estado anterior para el origen CheckWeather.
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+Creando el origen de EventLog CheckWeather en el registro Application...
+Deshaciendo ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Restaurando el registro de eventos al estado anterior para el origen CheckWeather.
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+Creando el origen de EventLog CheckWeather en el registro Application...
+Deshaciendo ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Restaurando el registro de eventos al estado anterior para el origen CheckWeather.
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+Creando el origen de EventLog CheckWeather en el registro Application...
+Deshaciendo ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Restaurando el registro de eventos al estado anterior para el origen CheckWeather.
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+Creando el origen de EventLog CheckWeather en el registro Application...
+Deshaciendo ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Restaurando el registro de eventos al estado anterior para el origen CheckWeather.
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+Creando el origen de EventLog CheckWeather en el registro Application...
+Deshaciendo ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Restaurando el registro de eventos al estado anterior para el origen CheckWeather.
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = true
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+Creando el origen de EventLog CheckWeather en el registro Application...
+Deshaciendo ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = true
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Restaurando el registro de eventos al estado anterior para el origen CheckWeather.
+Desinstalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Quitando el origen de EventLog CheckWeather.
+Advertencia: el origen CheckWeather no está registrado en el equipo local.
+Se está quitando el servicio CheckWeather del sistema...
+El servicio CheckWeather se ha quitado correctamente del sistema.
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+Creando el origen de EventLog CheckWeather en el registro Application...
+Deshaciendo ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Restaurando el registro de eventos al estado anterior para el origen CheckWeather.
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+Creando el origen de EventLog CheckWeather en el registro Application...
+Deshaciendo ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Restaurando el registro de eventos al estado anterior para el origen CheckWeather.
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+Creando el origen de EventLog CheckWeather en el registro Application...
+Deshaciendo ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Restaurando el registro de eventos al estado anterior para el origen CheckWeather.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+El servicio CheckWeather se ha instalado correctamente.
+Creando el origen de EventLog CheckWeather en el registro Application...
+Confirmando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Desinstalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Quitando el origen de EventLog CheckWeather.
+Se está quitando el servicio CheckWeather del sistema...
+El servicio CheckWeather se ha quitado correctamente del sistema.
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+El servicio CheckWeather se ha instalado correctamente.
+Creando el origen de EventLog CheckWeather en el registro Application...
+Confirmando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Desinstalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Quitando el origen de EventLog CheckWeather.
+Se está quitando el servicio CheckWeather del sistema...
+El servicio CheckWeather se ha quitado correctamente del sistema.
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+El servicio CheckWeather se ha instalado correctamente.
+Creando el origen de EventLog CheckWeather en el registro Application...
+Confirmando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Desinstalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Quitando el origen de EventLog CheckWeather.
+Se está quitando el servicio CheckWeather del sistema...
+El servicio CheckWeather se ha quitado correctamente del sistema.
+Instalando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+Instalando el servicio CheckWeather...
+El servicio CheckWeather se ha instalado correctamente.
+Creando el origen de EventLog CheckWeather en el registro Application...
+Confirmando ensamblado 'D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = D:\Dev\WeatherService\WeatherService\bin\Debug\WeatherService.exe
