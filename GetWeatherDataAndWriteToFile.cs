@@ -88,7 +88,7 @@ namespace WeatherService
 
             
 
-            HttpResponseMessage response = client.GetAsync("?lat=32.780061&lon=-96.798265&appid=6e0036d3203de9b7000ae6a58950c227&units=metric").Result;
+            HttpResponseMessage response = client.GetAsync("?lat=32.780061&lon=-96.798265&appid=<InsertAppIdHere>&units=metric").Result;
 
 
             if (response.IsSuccessStatusCode)
