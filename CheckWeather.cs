@@ -48,6 +48,11 @@ namespace WeatherService
         {
 
         }
+        
+        public void OnDebug()
+        {
+            OnStart(null);
+        }
 
     }
 }
