@@ -13,13 +13,14 @@ namespace WeatherService
         /// Punto de entrada principal para la aplicación.
         /// </summary>
         
+
+        static void Main()
+        {
 #if DEBUG
             CheckWeather myService = new CheckWeather();
             myService.OnDebug();
             System.Threading.Thread.Sleep(System.Threading.Timeout.Infinite);
 #else
-        static void Main()
-        {
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
